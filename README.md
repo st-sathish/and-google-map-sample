@@ -8,7 +8,7 @@ This is a sample with very limited files to track the taxi driver location.
 
 
 * Download this project & open in Android Studio
-* Check all your configurations are right one you are using. It means change GOOGLE_API_KEY which is found in both degbug & release folder
+* Check all your configurations are right one you are using. It means replace GOOGLE_API_KEY with your own key which is found in both debug & release folder
 
 The MIT License
 ===============
